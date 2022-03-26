@@ -13,7 +13,8 @@ It will then be started on port 3000.
 ```sh
 curl http://localhost:3000
 ```
-```browser
+or in browser
+```
 http://localhost:3000
 ```
 
@@ -21,7 +22,8 @@ http://localhost:3000
 ```sh
 curl http://localhost:3000/store/my-key\?key1\=value1\&key2\=value2
 ```
-```browser
+or in browser
+```
 http://localhost:3000/store/order\?key1=value1&key2=value2
 ```
 
@@ -30,6 +32,7 @@ http://localhost:3000/store/order\?key1=value1&key2=value2
 ```sh
 curl http://localhost:3000/my-key
 ```
-```browser
+or in browser
+```
 http://localhost:3000/admin
 ```
