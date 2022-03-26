@@ -28,7 +28,7 @@ app.get('/admin', async (req, res) => {
 
 
 app.get('/', (req, res) => {
-  return res.send('Welcome, you can start adding your order.');
+  return res.send('Welcome, you can start placing your order.');
 });
 
 const PORT = process.env.PORT || 3000;
