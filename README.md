@@ -25,7 +25,7 @@ curl http://localhost:3000/store/my-key\?key1\=value1\&key2\=value2
 http://localhost:3000/store/order\?key1=value1&key2=value2
 ```
 
-### Fetching Data(Admin)
+### Fetching All Data(Admin)
 
 ```sh
 curl http://localhost:3000/my-key
