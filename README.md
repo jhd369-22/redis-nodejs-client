@@ -30,7 +30,7 @@ http://localhost:3000/store/order\?key1=value1&key2=value2
 ### Fetching All Data(Admin)
 
 ```sh
-curl http://localhost:3000/my-key
+curl http://localhost:3000/admin
 ```
 or in browser
 ```
