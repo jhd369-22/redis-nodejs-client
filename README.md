@@ -6,6 +6,8 @@ To start the app run: `docker-compose up`.
 
 It will then be started on port 3000.
 
+Data structure: Redis Sorted Set.
+
 ## Endpoints
 
 ### Welcome Page
