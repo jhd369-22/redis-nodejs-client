@@ -1,4 +1,4 @@
-Reference to the Redis tutorial
+Refer to the Redis tutorial
 
 # Express Redis Docker app
 
